@@ -53,13 +53,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - ElasticNet helps in situations with multicollinearity and when we want to balance sparsity and stability.
 - Regularization can significantly improve the generalization of linear models.
 
-## 📈 Example Output
-
-Model Performance:
-- MAE: _x.xx_
-- MSE: _x.xx_
-- R² Score: _x.xx_
-
 ## 📚 References
 
 - UCI Machine Learning Repository - Wine Quality Dataset
